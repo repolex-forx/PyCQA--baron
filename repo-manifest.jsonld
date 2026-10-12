@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/baron/commit/eaa1062beced93061f1184682290136a82b6a490",
       "git:hexsha": "eaa1062beced93061f1184682290136a82b6a490",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.10.1"
     },
     {
